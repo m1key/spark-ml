@@ -1,0 +1,6 @@
+.idea
+*.iml
+target
+pathToSaveModel.txt
+pathToWriteto.txt
+
